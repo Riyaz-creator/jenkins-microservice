@@ -1,4 +1,9 @@
 i have created a new branch
 which is a slave branch 
 for my gir repo
+<<<<<<< HEAD
 now i do some modification for stash
+=======
+this is the second conflict
+now i am doing the conflict
+ slave
