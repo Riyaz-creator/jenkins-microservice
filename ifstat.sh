@@ -8,3 +8,5 @@ if [ "$whoami" != "root" ];then
 fi
 
 ps -ef | head -5
+
+date
