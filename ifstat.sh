@@ -10,3 +10,4 @@ fi
 ps -ef | head -5
 
 date
+time
