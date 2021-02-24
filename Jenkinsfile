@@ -1,4 +1,3 @@
-# declarative script
 
 pipeline {
  agent any
